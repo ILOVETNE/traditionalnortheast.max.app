@@ -52,12 +52,6 @@
 "backgroundGradientColor":[]
 },
 {
-"height":10,
-"layout":"spacer",
-"useLightColor":false,
-"backgroundColor":"032196F3"
-},
-{
 "font":"Roboto",
 "type":"static",
 "title":"Search for a products: waistcoats, mufflers",
@@ -108,7 +102,7 @@
 "productType":true,
 "borderInput":false,
 "title":"",
-"type":"scale",
+"type":"color",
 "textColor":"FFFFEB3B",
 "alignment":"center",
 "fontWeight":500,
@@ -123,7 +117,7 @@
 "paddingTop":2,
 "paddingBottom":0,
 "height":63,
-"rotate":["Happy Bhugali Bihu"],
+"rotate":["Happy Bhogali Bihu"],
 "minWidth":0,
 "backgroundGradientColor":[],
 "font":"Caprasimo",
@@ -2482,4 +2476,4 @@
 "backgroundColor":null,
 "backgroundImage":null
 },
-"Datetime":"2026-01-13T01:20:58.084078"}
+"Datetime":"2026-01-13T01:32:37.116659"}
