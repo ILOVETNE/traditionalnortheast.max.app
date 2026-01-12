@@ -2133,6 +2133,7 @@
 "image":"#",
 "video":"https://traditionalnortheast.com/wp-content/uploads/2026/01/Happy_magh_Bihu_bihu_assam_culture_goodfoodinthevillage_720P-1.mp4",
 "height":0.675,
+"showVolumeButton": true,
 "layout":"background",
 "isScrollable":false
 },
